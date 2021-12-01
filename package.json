@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "deploy": "gh-pages -d dist",
     "dev": "vue-cli-service serve",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -11,6 +12,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "dayjs": "^1.10.7",
+    "gh-pages": "^3.2.3",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
     "vuetify": "^2.6.0",
