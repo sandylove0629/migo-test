@@ -2,12 +2,12 @@
   <header class="d-flex justify-start">
     <v-app-bar color="#e31e30">
       <div class="logo">
-        <img src="../assets/image/logo.png" alt="" />
+        <img src="../assets/image/logo.svg" alt="" />
       </div>
       <v-tabs align-with-title>
         <v-tab active-class="tab d-flex">
           <div class="img-inventory">
-            <img src="../assets/image/inventory.png" alt="" />
+            <img src="../assets/image/inventory.svg" alt="" />
           </div>
           Inventory
         </v-tab>
